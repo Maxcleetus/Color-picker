@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Maxcleetus.github.io/Color-picker",
+  "homepage": "https://Maxcleetus.github.io/color-picker",
   "name": "color-picker",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
