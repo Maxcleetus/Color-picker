@@ -4,6 +4,7 @@ body{
     background-image: url(https://cdn.pixabay.com/photo/2022/10/03/21/47/fog-7496901_1280.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    height: 100vh;
 }
 .container{
     display: flex;
